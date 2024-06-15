@@ -1,7 +1,7 @@
 import { withRouter } from "next/router";
 
 function Home() {
-    return <h1> Eu já não tinha juízo, ai chega você com esse sorriso.</h1>
+    return <h1> pagina feita especificamente pra você, Baixinha kkk.</h1>
 }
 
 export default Home;
